@@ -17,7 +17,7 @@ function SearchBar({ onSubmit }) {
 
   return (
     <div className='search-bar'>
-      <h1>Simple App for Displaying a Pexels Pictures Based on Search Term</h1>
+      <h1>Simple App for Displaying a PexelsAPI Pictures</h1>
       <form onSubmit={handleFormSubmit}>
         <label>Enter Search Term</label>
         <input value={term} onChange={handleChange} />
