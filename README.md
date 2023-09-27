@@ -1,6 +1,6 @@
 # Pexels API Search App
 
-![App Screenshot](screenshot.png)
+![App Screenshot](./screenshot.png)
 
 ## Description
 
