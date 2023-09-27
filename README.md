@@ -19,7 +19,7 @@ To run this app locally, follow these steps:
 
 1. Clone this repository to your local machine.
 
-git clone https://github.com/Djomlica/pexels-api-search-app.git
+git clone https://github.com/Djomlica/pexels-search-app__react
 
 2. Navigate to the project directory.
 
